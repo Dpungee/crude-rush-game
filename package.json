@@ -1,0 +1,19 @@
+{
+  "name": "crude-rush-game",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Crude Rush - Build your oil empire. Powered by $CRUDE on Solana.",
+  "scripts": {
+    "dev": "vite --port 3000 --open",
+    "build": "vite build",
+    "preview": "vite preview --port 3000"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.0",
+    "vite": "^5.4.0"
+  }
+}
